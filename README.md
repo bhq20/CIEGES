@@ -7,5 +7,6 @@ CIEGES/
     └── documento-oficial-ses-to/
         ├── SKILL.md                   ← mover para cá
         └── references/
-            ├── criterios-seguranca-informacao-protecao-dados.md  
-            └── catalogo-tipos-documento.md                  
+            skills/documento-oficial-ses-to/references/
+├── criterios-seguranca-informacao-protecao-dados.md
+└── catalogo-tipos-documento.md               
