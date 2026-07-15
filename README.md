@@ -30,7 +30,7 @@ CIEGES/
 │  └─ plugin.json                     # manifesto do plugin
 └─ skills/
    └─ documento-oficial-ses-to/
-      ├─ SKILL (1).md                     # fluxo de trabalho + as 40 regras
+      ├─ SKILL.md                     # fluxo de trabalho + as 40 regras
       └─ references/
          ├─ criterios-seguranca-informacao-protecao-dados.md
          └─ catalogo-tipos-documento.md
