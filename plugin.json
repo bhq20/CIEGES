@@ -1,0 +1,9 @@
+{
+  "name": "documento-oficial-ses-to",
+  "version": "0.1.0",
+  "description": "Gera documentos oficiais da SES/TO seguindo as 40 regras de redação/formatação, com referências de segurança da informação/LGPD e catálogo de tipos de documento (CIEGES-TO / BHQ).",
+  "author": {
+    "name": "BHQ Consultoria",
+    "email": "comercial@bhqconsultoria.com"
+  }
+}
